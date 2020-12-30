@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(images/bg.jpg);
+	background-size: cover;
+}
+
+.Our-form{
+	width: 500px;
+	background: rgba(5, 245, 221, .4);
+	margin: 50px auto;
+	padding: 40px;
+	border-radius: 5px;
+
+}
+
+.farabi{
+	margin: 180px auto;
+}
+
+.Our-form input {
+	display: block;
+	width: 100%;
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 5px;
+	background: transparent;
+	border: 1px solid yellow;
+	color: #fff;
+
+}
+.Our-form label{
+	color: #fff;
+	font-family: tahoma;
+	padding: 10px 0;
+	display: block;
+
+}
+
+.Our-form input[type="submit"]{
+		width: 170px;
+		margin-top: 20px;
+		cursor: pointer;
+
+
+}
+
+form p{
+	margin-top: 10px;
+	color: #fff;
+
+}
+form a{
+	color: #fff;
+	
+}
